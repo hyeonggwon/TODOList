@@ -10,11 +10,9 @@ Apache Tomcat Version : Apache Tomcat 8.0.32
 Mysql Version : 15.1 Distrib 10.0.36-MariaDB
 
 
-
 2. TimeZone 설정
 
 jdbc 드라이버로 DB와 연동 시 서버의 시간대와 맞추어야 하는데 서버의 시간대(time zone)가 UTC라고 가정하고 만들었지만 서버의 시간대가 KST라면 "TODOManager.java"코드 상의 DB와 연동하는 각 부분에 있는 "String myUrl = " 다음에 나오는 문자열의 끝에 있는 "UTC"를 "KST"로 수정해야합니다.
-
 
 
 3. Firefox에서 TODO 삭제 시 오류
