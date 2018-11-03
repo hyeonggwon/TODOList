@@ -1,12 +1,8 @@
 # 참고사항
 1. 리눅스 환경
-
 Java Version : openjdk 1.8.0_181
-
 Javac Version : javac 1.8.0_181
-
 Apache Tomcat Version : Apache Tomcat 8.0.32
-
 Mysql Version : 15.1 Distrib 10.0.36-MariaDB
 
 
