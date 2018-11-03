@@ -2,7 +2,6 @@
 1. 리눅스 환경
 
 Linext Versuon : Ubuntu 16.04.5 LTS
-
 Java Version : openjdk 1.8.0_181
 
 Javac Version : javac 1.8.0_181
