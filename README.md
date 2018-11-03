@@ -11,7 +11,7 @@ Mysql Version : 15.1 Distrib 10.0.36-MariaDB
 
 2. TODO_list.war파일 저장 디렉토리
 
-/etc/var/tomcat8/webapps에 저장한 뒤 톰캣 실행하면 소스코드를 포함한 디렉토리가 생성됩니다.
+/etc/var/tomcat8/webapps에 저장한 뒤 톰캣 실행하면 소스코드를 포함한 디렉토리가 생성됩니다. 톰캣 버전이 다르면 webapps 디렉토리를 찾아 그안에 저장하시면 됩니다.
 
 3. Mysql TimeZone 설정
 
