@@ -1,7 +1,7 @@
 # 참고사항
 1. 리눅스 환경
 
-Linext Versuon : Ubuntu 16.04.5 LTS
+Linux Version : Ubuntu 16.04.5 LTS
 
 Java Version : openjdk 1.8.0_181
 
